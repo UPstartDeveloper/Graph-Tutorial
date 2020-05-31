@@ -1,5 +1,7 @@
 # CS-2.2-Labs
 
+## My Friend Network
+![Network Image](network.png)
 ## Your Social Network Graph Tutorial
 The starter code for this tutorial is in the tutorial folder.  
 
